@@ -1,0 +1,187 @@
+@media only screen and (max-width: 500px) {
+    .grand-img:nth-child(1) {
+        margin: -13px;
+
+
+    }
+
+    .grand-img:nth-child(2) {
+        display: none;
+    }
+
+    .grand-img:nth-child(3) {
+        display: none;
+    }
+
+    .menu:nth-child(1) {
+        left: 30px;
+
+    }
+
+    .menu:nth-child(2) {
+        left: 30px;
+
+    }
+
+    .menu:nth-child(3) {
+        left: 30px;
+
+    }
+
+    .span-left-words:nth-child(1) {
+        display: none;
+    }
+
+    .span-left-words:nth-child(2) {
+        display: none;
+    }
+
+    .span-left-words:nth-child(3) {
+        display: none;
+    }
+
+    .magazine-name {
+        left: 180px;
+        height: 24px;
+        top: 40px;
+    }
+
+    .language:nth-child(1) {
+        left: 100px;
+    }
+
+    .language:nth-child(2) {
+        display: none;
+    }
+
+    .laun-2 {
+        display: none;
+    }
+
+    .laun-1 {
+        left: 130px;
+    }
+
+    .item:nth-child(1) {
+        display: none;
+    }
+
+    .item:nth-child(2) {
+        display: none;
+    }
+
+    .item:nth-child(3) {
+        left: 360px;
+    }
+
+    .item:nth-child(4) {
+        left: 410px;
+    }
+
+    .kotalog {
+        margin-left: -160px;
+    }
+
+    .for-img-6 {
+        display: none;
+        height: 30px;
+
+    }
+
+    .for-img-7 {
+        display: none;
+        margin-left: 50px;
+        height: 30px;
+    }
+
+    .img-4-5-6-7 {
+        margin-left: -20px;
+        justify-content: space-between;
+    }
+
+    .news-2 {
+        margin-left: 10px;
+    }
+
+    .input-2 {
+        margin-left: 10px;
+        width: 480px;
+        padding-left: 200px;
+    }
+
+    .button {
+        margin-left: 10px;
+        width: 480px;
+    }
+
+    .words-1 {
+        margin-left: 10px;
+    }
+
+    .words-2 {
+        margin-left: 10px;
+
+    }
+
+    .help {
+        flex-wrap: wrap;
+
+    }
+
+
+    .help-div {
+        margin-left: 180px;
+        margin-top: -80px;
+    }
+
+    .help-a-words {
+        display: none;
+    }
+
+    .help-div:nth-child(1) {
+        margin-left: 180px;
+        margin-top: 10px;
+
+
+    }
+
+    .help-div:nth-child(2) {
+        margin-left: 180px;
+
+
+    }
+
+    .help-div-problem {
+        margin-left: 180px;
+        margin-top: -80px;
+    }
+
+
+    .new-colection {
+        left: 60px;
+    }
+
+    .trait {
+        left: 170px;
+    }
+
+    .news {
+        left: 150px;
+    }
+
+    .laun-3 {
+        left: 335px;
+    }
+    .internet{
+        margin-left: 15px;
+        height: 30px;
+    }
+    .help-a-words-2{
+       padding-left: 15px;
+    }
+    
+
+
+
+
+}
